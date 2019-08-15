@@ -1,0 +1,7 @@
+﻿<Application
+    x:Class="navigation_history_and_backwards_navigation.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:navigation_history_and_backwards_navigation">
+
+</Application>
